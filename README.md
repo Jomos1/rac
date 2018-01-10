@@ -18,6 +18,7 @@ To resolve Nordstrom's situation, RAC will develop an image recognition function
 - API Gateways
 - jQuery
 - AWS CLI
+- Android API
 
 ### MVP:
 - Image recognition working on the Women's Loungewear
@@ -52,5 +53,6 @@ To resolve Nordstrom's situation, RAC will develop an image recognition function
 - Brainstorm UI improvements
 - Implement the UI improvements
 - Attempt to develop the image recognition to other areas
+- Available on iOS
     
 
